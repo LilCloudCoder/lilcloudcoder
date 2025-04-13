@@ -18,6 +18,8 @@ I spend most of my time:
 
 ---
 
+![Tech Stack](stack.png)
+
 ## 🧠 My Tech Stack
 
 Here are the core technologies I work with regularly:
@@ -38,8 +40,6 @@ Here are the core technologies I work with regularly:
 - **scikit-learn** – Machine learning workflows and models
 
 ---
-
-![Tech Stack](stack.png)
 
 ## 📱
 
