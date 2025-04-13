@@ -1,6 +1,6 @@
 # Hi there, I'm Yogya! 👋
 
-Welcome to my GitHub profile! I'm a 10-year-old developer with a passion for building intelligent systems, AI frameworks, and efficient full-stack applications. I love turning wild ideas into working code that does *amazing* things. (written by chatgpt)
+Welcome to my GitHub profile! I'm a 11-year-old developer with a passion for building intelligent systems, AI frameworks, and efficient full-stack applications. I love turning wild ideas into working code that does *amazing* things. (written by chatgpt)
 
 ---
 
