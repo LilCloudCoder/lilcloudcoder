@@ -55,11 +55,10 @@ Here's a list of the main Python libraries I use and love:
 
 | Module            | Purpose                                  |
 |-------------------|-------------------------------------------|
-| **NumPy**         | Fast matrix math, arrays, scientific computing |
 | **Pandas**        | DataFrames, CSV/JSON reading, wrangling  |
 | **Matplotlib**    | Plotting and custom charting              |
 | **Seaborn**       | Advanced graphing with themes             |
-| **scikit-learn**  | ML models, pipelines, preprocessing       |
+| **scikit-learn**  | ML models, pipelines, preprocessing (just experiments)      |
 | **FastAPI**       | Async backend API design                  |
 | **Flask**         | RESTful APIs, microservices               |
 | **Web3.py**       | Blockchain interaction, wallet scripting  |
