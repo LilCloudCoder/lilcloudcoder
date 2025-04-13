@@ -39,6 +39,8 @@ Here are the core technologies I work with regularly:
 
 ---
 
+![Tech Stack](stack.png)
+
 ## 📱
 
 I develop everything using **Termux**, pushing the limits of mobile Linux.
