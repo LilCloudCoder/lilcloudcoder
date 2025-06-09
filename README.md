@@ -43,10 +43,7 @@ Here are the core technologies I work with regularly:
 
 ## 📱
 
-I develop everything using **Termux**, pushing the limits of mobile Linux.
-
-Yes, I build everything **from Android**—and yes, it works smoothly.
-
+I develop my projects with MacBook m2 air and test on android termux 
 ---
 
 ## 🔧 Modules I Use Daily
