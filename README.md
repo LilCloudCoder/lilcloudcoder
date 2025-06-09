@@ -82,6 +82,11 @@ Feel free to explore my repositories, raise issues, or just say hi.
     <img title="coder-yogya" src="https://github-readme-stats-q2ta.vercel.app/api?username=coder-yogya&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&cache_seconds=3200">
   </a>
 </p>
+<p align="center">
+   <a>
+     <img src="https://github-readme-streak-stats-tau-blush.vercel.app?user=coder-yogya&theme=buefy-dark&hide_border=true" alt="GitHub Streak" />
+   </a>
+</p>
 
 Thanks for visiting!
 
