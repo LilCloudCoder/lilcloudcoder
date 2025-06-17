@@ -69,7 +69,7 @@ Feel free to explore my repositories, raise issues, or just say hi.
 **"The code you write today becomes the magic of tomorrow."**
 
 <p align="center">
-  <a href="https://github.com/lilcoderhub">
+  <a href="https://github.com/lilcloudcoder">
     <img src="https://img.shields.io/badge/GitHub-Profile-blue?logo=github" alt="GitHub">
   </a>
   <a href="mailto:yogya.coder@gmail.com">
@@ -78,13 +78,13 @@ Feel free to explore my repositories, raise issues, or just say hi.
 </p>
 
 <p align="center">
-  <a href="https://github.com/coder-yogya">
-    <img title="coder-yogya" src="https://github-readme-stats-q2ta.vercel.app/api?username=lilcoderhub&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&cache_seconds=3200">
+  <a href="https://github.com/lilcloudcoder">
+    <img title="yogya" src="https://github-readme-stats-q2ta.vercel.app/api?username=lilcloudcoder&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&cache_seconds=3200">
   </a>
 </p>
 <p align="center">
    <a>
-     <img src="https://github-readme-streak-stats-tau-blush.vercel.app?user=lilcoderhub&theme=buefy-dark&hide_border=true" alt="GitHub Streak" />
+     <img src="https://github-readme-streak-stats-tau-blush.vercel.app?user=lilcloudcoder&theme=buefy-dark&hide_border=true" alt="GitHub Streak" />
    </a>
 </p>
 
