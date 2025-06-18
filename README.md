@@ -1,6 +1,8 @@
-# Hi there, I'm Yogya! 👋
+# Hi there, I'm Yogya! a.k.a lilcloudcoder 👋
 
 Welcome to my GitHub profile! I'm a 11-year-old developer with a passion for building intelligent systems, AI frameworks, and efficient full-stack applications. I love turning wild ideas into working code that does *amazing* things. (written by chatgpt)
+(i have less pub repos but many private fluffs 😜)
+
 
 ---
 
@@ -15,6 +17,7 @@ I spend most of my time:
 - Developing with Python (FastAPI, Flask), JavaScript (Node.js)
 - Experimenting with web3.py
 - Working and fine tuning ollama and hugginfacehub models with modules
+- Customizing everything to look fluffy
 
 ---
 
@@ -41,12 +44,12 @@ Here are the core technologies I work with regularly:
 
 ---
 
-## 📱
+## 📱 Developmemnt Stuff
 
 I develop my projects with MacBook m2 air and test on android termux 
 ---
 
-## 🔧 Modules I Use Daily
+## 🔧 Stuff I Use Daily
 
 Here's a list of the main Python libraries I use and love:
 
@@ -66,7 +69,7 @@ Here's a list of the main Python libraries I use and love:
 
 Feel free to explore my repositories, raise issues, or just say hi.
 
-**"The code you write today becomes the magic of tomorrow."**
+**The Fluff u write today - becomes the code of tommorow**
 
 <p align="center">
   <a href="https://github.com/lilcloudcoder">
