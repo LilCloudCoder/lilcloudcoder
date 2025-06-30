@@ -7,7 +7,6 @@ Welcome to my GitHub profile! I'm a 11-year-old developer with a passion for bui
 ---
 
 ## 🚀 About Me
-![My Picture](file_0000000056c06230b329880a8cbd9397-min_11zon.png)
 
 **~$ whoami** : I'm a self-taught programmer who's always curious to learn new technologies and challenge the limits of what's possible on any device—even low-end ones! Whether it’s building a powerful AI assistant, a modular backend system, or experimenting with new data visualizations, I code with heart and soul. (written by chatgpt.)
 
