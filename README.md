@@ -1,4 +1,5 @@
-# Hi there, I'm Yogya! a.k.a lilcloudcoder 👋
+# Hi there, I'm Yogya! a.k.a lilcloudcoder 👋 
+
 
 Welcome to my GitHub profile! I'm a 11-year-old developer with a passion for building intelligent systems, AI frameworks, and efficient full-stack applications. I love turning wild ideas into working code that does *amazing* things. (written by chatgpt)
 (i have less pub repos but many private fluffs 😜)
@@ -9,16 +10,9 @@ Welcome to my GitHub profile! I'm a 11-year-old developer with a passion for bui
 ## 🚀 About Me
 
 
+**lilcoder@fluffbook~% whoami** : I'm a self-taught programmer who's always curious to learn new technologies and challenge the limits of what's possible on any device—even low-end ones! Whether it’s building a powerful AI assistant, a modular backend system, or experimenting with new data visualizations, I code with heart and soul. (written by chatgpt.) 
 
-**lilcoder@fluffbook~% whoami** : I'm a self-taught programmer who's always curious to learn new technologies and challenge the limits of what's possible on any device—even low-end ones! Whether it’s building a powerful AI assistant, a modular backend system, or experimenting with new data visualizations, I code with heart and soul. (written by chatgpt.)
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/lilcloudcoder/lilcloudcoder/main/file_0000000056c06230b329880a8cbd9397-min_11zon-2.png" width="220"/>
-</p>
-
-
-
-
+<img src="https://avatars.githubusercontent.com/u/206849851?v=4" width="100"/>
 
 I spend most of my time:
 - Designing and optimizing AI models and logic systems
