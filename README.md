@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm a 11-year-old developer with a passion for bui
 
 **lilcoder@fluffbook~% whoami** : I'm a self-taught programmer who's always curious to learn new technologies and challenge the limits of what's possible on any device—even low-end ones! Whether it’s building a powerful AI assistant, a modular backend system, or experimenting with new data visualizations, I code with heart and soul. (written by chatgpt.) 
 
-<img src="https://avatars.githubusercontent.com/u/206849851?v=4" width="100"/>
+<img src="https://avatars.githubusercontent.com/u/206849851?v=4" width="300"/>
 
 I spend most of my time:
 - Designing and optimizing AI models and logic systems
