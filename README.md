@@ -1,77 +1,72 @@
-# Hi there, I'm Yogya! a.k.a lilcloudcoder 👋 
+# Hi there, I'm Yogya — aka @lilcloudcoder 👨‍💻
 
+Welcome to my GitHub! I’m an 11-year-old developer focused on building intelligent systems, custom AI frameworks, and efficient full-stack architectures. I love turning complex ideas into fast, working code — whether it’s backend logic, model reasoning, or clean frontend UI.
 
-Welcome to my GitHub profile! I'm a 11-year-old developer with a passion for building intelligent systems, AI frameworks, and efficient full-stack applications. I love turning wild ideas into working code that does *amazing* things. (written by chatgpt)
-(i have less pub repos but many private fluffs 😜)
-
+(PS: Most of my work lives in private repos for now.)
 
 ---
 
-## 🚀 About Me
+## ⚡ About Me
 
+**lilcoder@CodeBook~% whoami**
 
-**lilcoder@fluffbook~% whoami** : I'm a self-taught programmer who's always curious to learn new technologies and challenge the limits of what's possible on any device—even low-end ones! Whether it’s building a powerful AI assistant, a modular backend system, or experimenting with new data visualizations, I code with heart and soul. (written by chatgpt.) 
+Self-taught, deeply curious, and coding beyond my age — I push the boundaries of what’s possible, even on limited hardware. From writing deep model logic to automating workflows in Termux, I’m always experimenting and evolving.
 
 <img src="https://avatars.githubusercontent.com/u/206849851?v=4" width="300"/>
 
-I spend most of my time:
-- Designing and optimizing AI models and logic systems
-- Developing with Python (FastAPI, Flask), JavaScript (Node.js)
-- Experimenting with web3.py
-- Working and fine tuning ollama and hugginfacehub models with modules
-- Customizing everything to look fluffy
+I’m currently working on:
+- Reasoning-based AI model pipelines (Ollama, HuggingFace)
+- Modular API systems using FastAPI & Flask
+- Terminal tools & bots for ultra-efficient dev experience
+- Music & code-based creative systems
 
 ---
 
-![Tech Stack](stack.png)
+## 🧠 Tech Stack
 
-## 🧠 My Tech Stack
+### 🚀 Languages & Frameworks
+- `Python` – My primary language for logic, AI, backends
+- `FastAPI`, `Flask` – REST APIs, async microservices
+- `Node.js` – Real-time logic and scripting
+- `HTML`, `CSS`, `JavaScript` – UI and visual interfaces
+- `Web3.py` – Blockchain and smart contract tools
 
-Here are the core technologies I work with regularly:
-
-### **Languages & Frameworks**
-- **Python** – My main language for logic, data, AI, and backend work
-- **FastAPI** – Lightweight and powerful backend APIs
-- **Flask** – Modular microservice-based web architecture
-- **Node.js** – Real-time backend and service scripting
-- **HTML/CSS/JS** – Web interfaces and frontend logic
-- **Web3.py** – Decentralized apps and smart contract integration
-
-### **Data Science & Visualization**
-- **NumPy** – High-performance numerical computation
-- **Pandas** – Data analysis and processing at scale
-- **Matplotlib** – Custom data plotting and graphics
-- **Seaborn** – Clean and professional statistical visualizations
-- **scikit-learn** – Machine learning workflows and models
+### 📊 Data + AI Tools
+- `NumPy`, `Pandas` – Data crunching and logic shaping
+- `Matplotlib`, `Seaborn` – Visualizing data like art
+- `scikit-learn` – Machine learning & preprocessing
+- `HuggingFace`, `Ollama` – AI model inference & tuning
 
 ---
 
-## 📱 Developmemnt Stuff `lilcoder@fluffbook~% uname`
+## 💻 Dev Machine: **lilcoder@CodeBook~% uname**
 
-I develop my projects with MacBook m2 air and test on android termux 
----
-
-## 🔧 Stuff I Use Daily
-
-Here's a list of the main Python libraries I use and love:
-
-| Module            | Purpose                                  |
-|-------------------|-------------------------------------------|
-| **Pandas**        | DataFrames, CSV/JSON reading, wrangling  |
-| **Matplotlib**    | Plotting and custom charting              |
-| **Seaborn**       | Advanced graphing with themes             |
-| **scikit-learn**  | ML models, pipelines, preprocessing (just experiments)      |
-| **FastAPI**       | Async backend API design                  |
-| **Flask**         | RESTful APIs, microservices               |
-| **Web3.py**       | Blockchain interaction, wallet scripting  |
+- **Device**: MacBook Air M2 (16GB RAM)
+- **OS**: macOS 26 (Tahoe) Developer Beta
+- **Dev Mode**: Zen Dark 🖤 + Stage Manager + Terminal Focus
+- **Testing**: Android (Termux) and web devices
 
 ---
 
-## 📫 Let's Connect
+## 🛠️ Daily Tools
 
-Feel free to explore my repositories, raise issues, or just say hi.
+| Library         | Purpose                                     |
+|------------------|---------------------------------------------|
+| **Pandas**        | DataFrames, file parsing, manipulation     |
+| **Matplotlib**    | Graphs, charts, custom plots               |
+| **Seaborn**       | Aesthetic data viz                         |
+| **scikit-learn**  | ML, testing workflows                      |
+| **FastAPI**       | Backend API design                         |
+| **Flask**         | Microservices, REST endpoints              |
+| **Web3.py**       | Ethereum + Wallet scripting                |
 
-**The Fluff u write today - becomes the code of tommorow**
+---
+
+## 🔗 Connect With Me
+
+Feel free to explore my work, open issues, or just say hi!
+
+> **"Code = life | life = Code"**  
 
 <p align="center">
   <a href="https://github.com/lilcloudcoder">
@@ -84,17 +79,20 @@ Feel free to explore my repositories, raise issues, or just say hi.
 
 <p align="center">
   <a href="https://github.com/lilcloudcoder">
-    <img title="yogya" src="https://github-readme-stats-q2ta.vercel.app/api?username=lilcloudcoder&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&cache_seconds=3200">
+    <img title="GitHub Stats" src="https://github-readme-stats-q2ta.vercel.app/api?username=lilcloudcoder&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&cache_seconds=3200">
   </a>
 </p>
+
 <p align="center">
-   <a>
-     <img src="https://github-readme-streak-stats-tau-blush.vercel.app?user=lilcloudcoder&theme=buefy-dark&hide_border=true" alt="GitHub Streak" />
-   </a>
+   <img src="https://github-readme-streak-stats-tau-blush.vercel.app?user=lilcloudcoder&theme=buefy-dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
-Thanks for visiting!
-
-— Yogya  
 ---
-*Junior dev (just learning and practicing)*
+**In silence, code appears.
+In clarity, it compiles.
+In devotion, it evolves.**
+
+**Thanks for visiting**  
+— Yogya (`aka lilcoder`)
+
+*Junior Dev | Code with Soul 🔱*
