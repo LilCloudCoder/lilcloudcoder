@@ -12,8 +12,6 @@ Welcome to my GitHub! I’m an 11-year-old developer focused on building intelli
 
 Self-taught, deeply curious, and coding beyond my age — I push the boundaries of what’s possible, even on limited hardware. From writing deep model logic to automating workflows in Termux, I’m always experimenting and evolving.
 
-<img src="https://avatars.githubusercontent.com/u/206849851?v=4" width="300"/>
-
 I’m currently working on:
 - Reasoning-based AI model pipelines (Ollama, HuggingFace)
 - Modular API systems using FastAPI & Flask
