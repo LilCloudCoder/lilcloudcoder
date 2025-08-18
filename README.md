@@ -10,7 +10,7 @@ Welcome to my GitHub! I’m an 11-year-old developer focused on building intelli
 
 **lilcoder@CodeBook~% whoami**
 
-Self-taught, deeply curious, and coding beyond my age — I push the boundaries of what’s possible, even on limited hardware. From writing deep model logic to automating workflows in Termux, I’m always experimenting and evolving.
+Self-taught, deeply curious, and coding — I push the boundaries of what’s possible, even on limited hardware. From writing deep model logic to automating workflows in Termux, I’m always experimenting and evolving.
 
 I’m currently working on:
 - Reasoning-based AI model pipelines (Ollama, HuggingFace)
