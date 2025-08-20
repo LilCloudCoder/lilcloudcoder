@@ -10,53 +10,78 @@ Welcome to my GitHub! I’m an 11-year-old developer focused on building intelli
 
 **lilcoder@CodeBook~% whoami**
 
-Self-taught, deeply curious, and coding — I push the boundaries of what’s possible, even on limited hardware. From writing deep model logic to automating workflows in Termux, I’m always experimenting and evolving.
+```python
+def LilCoder():
+    lilcoder = {
+        "name": "Yogya",
+        "age": 11,
+        "description": (
+            "✨ Self-taught, endlessly curious, and coding my way through the universe. "
+            "From deep AI logic to automating Termux workflows, I experiment, learn, and evolve every day."
+        ),
+        "skills": [
+            "Python 🐍", "JavaScript ✨", "JSX", "HTML 💻", "CSS 🎨", "Swift 🍏"
+        ],
+        "frameworks": {
+            "Python": [
+                "web3.py", "pandas", "NumPy", "Matplotlib", "Seaborn", 
+                "scikit-learn", "FastAPI", "Flask", "Rich", "Torch", 
+                "TensorFlow", "Ollama", "HuggingFace"
+            ],
+            "JavaScript": ["React.js ⚛️", "MUI", "Node.js 🟢"],
+            "HTML/CSS": ["Tailwind 💨"]
+        },
+        "DevMachine": {
+            "model": "MacBook M2 Air 💻",
+            "OS": "MacOS Tahoe Beta 🍃"
+        },
+        "currentFocus": [
+            "⚡ Reasoning-based AI pipelines (Ollama, HuggingFace)",
+            "🔧 Modular APIs with FastAPI & Flask",
+            "🤖 Terminal bots & ultra-efficient dev tools",
+            "🎶 Music + code creative experiments"
+        ]
+    }
+
+    print("\n" + "="*50)
+    print(f"👋 Hi! I'm {lilcoder['name']} (Age: {lilcoder['age']})")
+    print("="*50 + "\n")
+
+    print("💡 About Me:")
+    print(f"{lilcoder['description']}\n")
+
+    print("🛠️ Skills:")
+    for skill in lilcoder["skills"]:
+        print(f"  • {skill}")
+    print()
+
+    print("⚡ Frameworks:")
+    for lang, fw_list in lilcoder["frameworks"].items():
+        print(f"  • {lang}: {', '.join(fw_list)}")
+    print()
+
+    print("💻 Dev Machine:")
+    for key, value in lilcoder["DevMachine"].items():
+        print(f"  • {key}: {value}")
+    print()
+
+    print("🎯 Current Focus:")
+    for item in lilcoder["currentFocus"]:
+        print(f"  • {item}")
+    print("\n💖 Thanks for visiting my GitHub!\n")
+    print("="*50 + "\n")
+
+
+# Call the function
+if __name__ == "__main__":
+    LilCoder()
+```
 
 I’m currently working on:
 - Reasoning-based AI model pipelines (Ollama, HuggingFace)
 - Modular API systems using FastAPI & Flask
 - Terminal tools & bots for ultra-efficient dev experience
 - Music & code-based creative systems
-
----
-
-## 🧠 Tech Stack
-
-### 🚀 Languages & Frameworks
-- `Python` – My primary language for logic, AI, backends
-- `FastAPI`, `Flask` – REST APIs, async microservices
-- `Node.js` – Real-time logic and scripting
-- `HTML`, `CSS`, `JavaScript` – UI and visual interfaces
-- `Web3.py` – Blockchain and smart contract tools
-
-### 📊 Data + AI Tools
-- `NumPy`, `Pandas` – Data crunching and logic shaping
-- `Matplotlib`, `Seaborn` – Visualizing data like art
-- `scikit-learn` – Machine learning & preprocessing
-- `HuggingFace`, `Ollama` – AI model inference & tuning
-
----
-
-## 💻 Dev Machine: **lilcoder@CodeBook~% uname**
-
-- **Device**: MacBook Air M2 (16GB RAM)
-- **OS**: macOS 26 (Tahoe) Developer Beta
-- **Dev Mode**: Zen Dark 🖤 + Stage Manager + Terminal Focus
-- **Testing**: Android (Termux) and web devices
-
----
-
-## 🛠️ Daily Tools
-
-| Library         | Purpose                                     |
-|------------------|---------------------------------------------|
-| **Pandas**        | DataFrames, file parsing, manipulation     |
-| **Matplotlib**    | Graphs, charts, custom plots               |
-| **Seaborn**       | Aesthetic data viz                         |
-| **scikit-learn**  | ML, testing workflows                      |
-| **FastAPI**       | Backend API design                         |
-| **Flask**         | Microservices, REST endpoints              |
-| **Web3.py**       | Ethereum + Wallet scripting                |
 
 ---
 
