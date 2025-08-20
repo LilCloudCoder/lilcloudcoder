@@ -54,11 +54,11 @@ def LilCoder():
 </p>
 
 <p align="center">
-  <a href="https://github.com/lilcloudcoder">
-    <img title="GitHub Stats" src="https://github-readme-stats-q2ta.vercel.app/api?username=lilcloudcoder&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&cache_seconds=3200">
-  </a>
+      <img src="https://github-readme-stats.vercel.app/api?username=lilcloudcoder&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="40%">
 </p>
-
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lilcloudcoder&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" alt="Top Languages" width="40%">
+</p>
 <p align="center">
    <img src="https://github-readme-streak-stats-tau-blush.vercel.app?user=lilcloudcoder&theme=buefy-dark&hide_border=true" alt="GitHub Streak" />
 </p>
