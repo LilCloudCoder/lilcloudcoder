@@ -1,67 +1,86 @@
-# Hi, I'm Yogya — @lilcloudcoder <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+# Hi, I'm Yogya
 
-Welcome to my GitHub! I’m an 11-year-old developer focused on building intelligent systems, custom AI frameworks, and efficient full-stack architectures. I love turning complex ideas into fast, working code — whether it’s backend logic, model reasoning, or clean frontend UI.
-
-(PS: Most of my work lives in private repos for now.)
+> 11y/o building **AI frameworks**, **efficient full-stack systems**, and tools that actually matter not clutter.  
+> I turn raw ideas → fast code.  
+> Most of my work lives in private repos… for now.  
 
 ---
-
-# <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Something more about me...
 
 ```python
-def LilCoder():
-    lilcoder = {
-        "name": "Yogya",
-        "age": 11,
-        "description": (
-            " Self-taught, endlessly curious, and coding my way through the universe. "
-            "From deep AI logic to automating Termux workflows, I experiment, learn, and evolve every day."
-        ),
-        "skills": [
-            "Python", "JavaScript", "JSX", "HTML", "CSS", "Swift"
-        ],
-        "frameworks": {
-            "Python": [
-                "web3.py", "pandas", "NumPy", "Matplotlib", "Seaborn", 
-                "scikit-learn", "FastAPI", "Flask", "Rich", "Torch", 
-                "TensorFlow", "Ollama", "HuggingFace"
-            ],
-            "JavaScript": ["React.js", "MUI", "Node.js"],
-            "HTML/CSS": ["Tailwind"]
-        },
-        "DevMachine": {
-            "model": "MacBook M2 Air",
-            "OS": "MacOS Tahoe Beta"
-        },
-        "currentFocus": [
-            " Reasoning-based AI pipelines (Ollama, HuggingFace)",
-            " Modular APIs with FastAPI & Flask",
-            " Terminal bots & ultra-efficient dev tools"
+class Me:
+    """
+    System builder | Intelligence architect
+    """
+
+    def __init__(self):
+        self.name = "Yogya"
+        self.age = 11
+        self.alias = "LilCoder"
+        self.title = [
+            "Architect of Cognitive Systems",
+            "Builder of Reasoning Frameworks",
+            "Quantum-inspired Coder"
         ]
-    }
-    print(lilcoder)
+        self.focus = {
+            "core": [
+                "Breaking the boundaries of perception",
+                "Quantum-bit inspired reasoning models",
+                "Layered & hierarchical intelligence"
+            ],
+            "active": [
+                "Reasoning Layered Models (RLM)",
+                "Awdhr.ai – God-level AGI framework",
+                "Ultra-efficient modular APIs"
+            ],
+            "meta": [
+                "Turning chaos into structured logic",
+                "Designing cognition beyond prediction"
+            ]
+        }
+        self.skills = {
+            "Languages": ["Python", "JavaScript/React", "Swift"],
+            "Frameworks": [
+                "FastAPI", "Flask", "Torch", "TensorFlow",
+                "LangChain-core", "Ollama", "HuggingFace"
+            ],
+            "Domains": [
+                "AI/ML", "Deep Learning", "Neural Networks",
+                "Quantum-inspired computation", "Full-Stack Architectures"
+            ]
+        }
+        self.machine = {
+            "device": "MacBook Air M2",
+            "os": "macOS Tahoe Beta",
+            "philosophy": "Minimal, sharp, distraction-free"
+        }
+
+    def vision(self):
+        return (
+            "Forge intelligence that transcends token prediction. "
+            "Systems that *reason, adapt, and evolve* — "
+            "a fusion of quantum logic and human-inspired cognition."
+        )
+
+    def status(self):
+        return {
+            "Mode": "24/7 Coding",
+            "Current Project": "Building AGI",
+            "Energy": "Focused | Productive | Clutterless | Meditative"
+        }
+
+    def __repr__(self):
+        return f"<{self.alias} :: {self.title[0]} — Age {self.age}>"
+
+    def __str__(self):
+        return (
+            "Endlessly curious. Deadly precise. "
+            "Coding not just through systems, but through existence itself."
+        )
 ```
----
-
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> Connect With Me
-
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  Feel free to explore my work, open issues, or just say hi!
 
 <p align="center">
   <a href="mailto:yogya.coder@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Me-red?logo=gmail" alt="Email">
+    <img src="https://img.shields.io/badge/Email-Yogya-red?logo=gmail&logoColor=white" />
   </a>
 </p>
 
-<p align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=lilcloudcoder&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="40%">
-</p>
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lilcloudcoder&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" alt="Top Languages" width="40%">
-</p>
-<p align="center">
-   <img src="https://github-readme-streak-stats-tau-blush.vercel.app?user=lilcloudcoder&theme=buefy-dark&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWdrZ3owY21iNmRxdmJyenRwajk1b256MjFteTdmeHJ5ZHQwaXU5aSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9dHM/ann6fBhnBb1UPZDcmc/giphy.gif" width="50"> for visiting ! 
