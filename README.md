@@ -1,86 +1,86 @@
-# Hi, I'm Yogya
+## Hey Devs, I am YOGYA !
+> An 11 y/o Coder still learning practicing and exploring 
 
-> 11y/o building **AI frameworks**, **efficient full-stack systems**, and tools that actually matter not clutter.  
-> I turn raw ideas → fast code.  
-> Most of my work lives in private repos… for now.  
 
----
+### My Stack:
+ - ```python
+    print("Python")
+   ```
+ - ```JavaScript
+   console.log("JavaScript")
+   ```
+ - ```Lua
+    print("Lua")
+   ```
+ - ```sh
+    echo "bash/zsh"
+   ```
+ - ```html
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="main.css">
+        <title>HTML</title>
+    </head>
+    <body>
+        <h1 id="css">Html5</h1>
+    </body>
+    </html>
+   ```
+ - ```CSS
+   #css{
+        font-family: Arial,Sans-Serif;
+        font-size: 70px;
+   }
+   ```
+ - ```Rust
+   fn main() {
+        println!("Rust");
+   }
+   ```
+ - ```GoLang
+     // Learning
+     package main
+     import "fmt"
 
-```python
-class Me:
-    """
-    System builder | Intelligence architect
-    """
-
-    def __init__(self):
-        self.name = "Yogya"
-        self.age = 11
-        self.alias = "LilCoder"
-        self.title = [
-            "Architect of Cognitive Systems",
-            "Builder of Reasoning Frameworks",
-            "Quantum-inspired Coder"
-        ]
-        self.focus = {
-            "core": [
-                "Breaking the boundaries of perception",
-                "Quantum-bit inspired reasoning models",
-                "Layered & hierarchical intelligence"
-            ],
-            "active": [
-                "Reasoning Layered Models (RLM)",
-                "Awdhr.ai – God-level AGI framework",
-                "Ultra-efficient modular APIs"
-            ],
-            "meta": [
-                "Turning chaos into structured logic",
-                "Designing cognition beyond prediction"
-            ]
+     func main() {
+         fmt.Println("GoLang")
+    }
+   ``` 
+ - ```C
+    // Medium Level
+    #include <stdio.h>
+    int main() {
+       printf("C\n");
+       return 0;
+    }
+   ```
+- ```JavaScript
+    // SPDX-License-Identifier: MIT
+    pragma solidity ^0.8.0;
+    
+    contract HelloWorld {
+        string public greet = "Solidity";
+    
+        function getGreeting() public view returns (string memory) {
+            return greet;
         }
-        self.skills = {
-            "Languages": ["Python", "JavaScript/React", "Swift"],
-            "Frameworks": [
-                "FastAPI", "Flask", "Torch", "TensorFlow",
-                "LangChain-core", "Ollama", "HuggingFace"
-            ],
-            "Domains": [
-                "AI/ML", "Deep Learning", "Neural Networks",
-                "Quantum-inspired computation", "Full-Stack Architectures"
-            ]
-        }
-        self.machine = {
-            "device": "MacBook Air M2",
-            "os": "macOS Tahoe Beta",
-            "philosophy": "Minimal, sharp, distraction-free"
-        }
+    }
+  ```
 
-    def vision(self):
-        return (
-            "Forge intelligence that transcends token prediction. "
-            "Systems that *reason, adapt, and evolve* — "
-            "a fusion of quantum logic and human-inspired cognition."
-        )
+### Frameworks I Use:
+- React.js
+- Next.js (rarely)
+- Tensorflow/PyTorch/AI , ML modules in Python
+- Node.js
+- Web3.js
+- Web3.py
 
-    def status(self):
-        return {
-            "Mode": "24/7 Coding",
-            "Current Project": "Building AGI",
-            "Energy": "Focused | Productive | Clutterless | Meditative"
-        }
-
-    def __repr__(self):
-        return f"<{self.alias} :: {self.title[0]} — Age {self.age}>"
-
-    def __str__(self):
-        return (
-            "Endlessly curious. Deadly precise. "
-            "Coding not just through systems, but through existence itself."
-        )
+```rust
+fn main() {
+    println("I'm seeking for work");
+}
 ```
-
-<p align="center">
-  <a href="mailto:yogya.coder@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Yogya-red?logo=gmail&logoColor=white" />
-  </a>
-</p>
-
+#### Contact me at yogya.coder@gmail.com
