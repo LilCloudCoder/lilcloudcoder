@@ -1,5 +1,5 @@
 ## Hey Devs, I am YOGYA !
-> An 11 y/o Coder still learning practicing and exploring 
+> An 11 y/o Polyglot coder
 
 
 ### My Stack:
@@ -79,7 +79,8 @@
 - Node.js
 - Web3.js
 - Web3.py
-  
+- Flutter
+- React Native
 ![Yogya's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=lilcloudcoder&layout=compact&theme=radical)
 
 ```rust
@@ -87,4 +88,8 @@ fn main() {
     println("I'm seeking for work");
 }
 ```
+#### Sample website i made for a client: https://www.sangharshpremierleague.com
+
+--- 
 #### Contact me at yogya.coder@gmail.com
+Thanks for stopping by ! :D (don't forget to follow :)
