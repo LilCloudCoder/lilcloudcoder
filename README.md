@@ -81,6 +81,7 @@
 - Web3.py
 - Flutter
 - React Native
+  
 ![Yogya's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=lilcloudcoder&layout=compact&theme=radical)
 
 ```rust
@@ -92,4 +93,4 @@ fn main() {
 
 --- 
 #### Contact me at yogya.coder@gmail.com
-Thanks for stopping by ! :D (don't forget to follow :)
+Thanks for stopping by ! :D (don't forget to follow ☺︎ )
