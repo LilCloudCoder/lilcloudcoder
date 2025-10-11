@@ -81,8 +81,6 @@
 - Web3.py
 - Flutter
 - React Native
-  
-![Yogya's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=lilcloudcoder&layout=compact&theme=radical)
 
 ```rust
 fn main() {
