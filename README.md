@@ -1,6 +1,6 @@
-i am yogya
+### i am yogya
 
-### My Stack:
+**My Stack:**
 - python
 - javascript
 - java (basics)
