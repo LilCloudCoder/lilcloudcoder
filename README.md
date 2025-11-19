@@ -1,20 +1,7 @@
 ### i am yogya
 
 **My Stack:**
-- python
-- javascript
-- java (basics)
-- c
-- rust
-- go
-- solidity
-- lua
-- sh
-- jsx
-- typescript
-- html5
-- css3
-- dart
+- python , javascript , java (basics) , c , rust , go , solidity , lua , sh , jsx , typescript , html5 , css3 , dart
   
   ---
 
@@ -37,8 +24,11 @@ fn main() {
     println("I'm seeking for work");
 }
 ```
-#### Sample website i made for a client: https://www.sangharshpremierleague.com
+
+**Sample website i made for a client: https://www.sangharshpremierleague.com**
 
 --- 
-#### Contact me at yogya.coder@gmail.com
+
+**Contact me at yogya.coder@gmail.com**
+
 Thanks for stopping by ! :D (don't forget to follow ☺︎ )
