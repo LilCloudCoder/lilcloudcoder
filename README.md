@@ -8,4 +8,4 @@ flutter react next fastapi flask react native wASM
 - contact: yogya.coder@gmail.com
 - client work: sangharshpremierleague.com/ | shidhshaktimission.org
 
-role models:  Dennis Ritchie, Linux Torvals
+role models:  Dennis Ritchie, Linux Torvalds
