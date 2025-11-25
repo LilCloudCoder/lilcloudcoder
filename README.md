@@ -8,4 +8,4 @@ flutter react next fastapi flask react native wASM BareMetal-C
 - contact: yogya.coder@gmail.com
 - client work: https://sangharshpremierleague.com/ | https://shidhshaktimission.org/ 
 
-inpired by:  Dennis Ritchie, Linus Torvalds
+inspired by:  Dennis Ritchie, Linus Torvalds
