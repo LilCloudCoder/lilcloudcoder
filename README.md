@@ -1,4 +1,10 @@
-**Yogya**
+**Hello, I Am _Yogya_**
+
+**Bio**:
+-  age: 12
+-  hometown: UP, India
+
+**stack**: 
 
 PY JS TS HTML CSS Go C Rust Solidity Swift Dart ASM-basics
 
