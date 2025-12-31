@@ -1,13 +1,18 @@
-**Hello, I Am _Yogya_**
+# Yogya
 
-**stack**: 
+Developer focused on building reliable systems and practical software, from low-level code to full-stack applications. Interested in how things work beneath the surface.
 
-PY JS TS HTML CSS Go C Rust Solidity Swift Dart ASM-basics
+## Stack
+- **Languages:** Python, JavaScript, TypeScript, Go, C, Rust, Solidity, Swift, Dart, HTML, CSS, ASM (basics)
+- **Frameworks & Tech:** React, Next.js, FastAPI, Flask, Flutter, React Native, WebAssembly, Bare-Metal C
 
----
-flutter react next fastapi flask react native wASM BareMetal-C 
+## Client Work
+- [Sangharsh Premier League](https://sangharshpremierleague.com/)
+- [Shidh Shakti Mission](https://shidhshaktimission.org/)
 
-- contact: yogya.coder@gmail.com
-- client work: https://sangharshpremierleague.com/ | https://shidhshaktimission.org/ 
+## Inspired by
+- Dennis Ritchie  
+- Linus Torvalds
 
-inspired by:  Dennis Ritchie, Linus Torvalds
+## Contact
+-  yogya.coder@gmail.com
