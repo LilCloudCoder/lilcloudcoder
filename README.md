@@ -16,3 +16,9 @@ Developer focused on building reliable systems and practical software, from low-
 
 ## Contact
 -  yogya.coder@gmail.com
+
+---
+
+**Now follow me and _go touch some GRASS_** 
+<br/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnh0eTVyNWUwamd3MzljbHQzdnY2OGd4ZG5jZTV6aWhmenIyeWhqayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/EG9Zc506rqw8qiv6YK/giphy.gif" width=100> </img>
