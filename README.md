@@ -6,6 +6,12 @@ Developer focused on building reliable systems and practical software, from low-
 - **Languages:** Python, JavaScript, TypeScript, Go, C, Rust, Solidity, Swift, Dart, HTML, CSS, ASM (basics)
 - **Frameworks & Tech:** React, Next.js, FastAPI, Flask, Flutter, React Native, WebAssembly, Bare-Metal C
 
+## Setup (whole CLI)
+- **Terminal:** Alacritty
+- **Code Editor:** NvChad with lots of tweaks
+- **Prompt:** Starship
+- **Zoxide**
+
 ## Client Work
 - [Sangharsh Premier League](https://sangharshpremierleague.com/)
 - [Shidh Shakti Mission](https://shidhshaktimission.org/)
