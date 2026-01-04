@@ -1,6 +1,6 @@
 # Yogya
 
-Developer focused on building reliable systems and practical software, from low-level code to full-stack applications. Interested in how things work beneath the surface.
+focused on building reliable systems and practical software, from low-level code to full-stack applications. Interested in how things work beneath the surface.
 
 ## Stack
 - **Languages:** Python, JavaScript, TypeScript, Go, C, Rust, Solidity, Swift, Dart, HTML, CSS, ASM (basics)
@@ -22,6 +22,7 @@ Developer focused on building reliable systems and practical software, from low-
 
 ## Contact
 -  yogya.coder@gmail.com
+-  Portfolio Site: https://lilcloudocder.github.io/
 
 ---
 
