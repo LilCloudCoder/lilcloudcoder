@@ -12,13 +12,37 @@ const developer = {
 };
 ```
 ## Stack
+## Languages
 
-[![Low Level](https://skillicons.dev/icons?i=c,cpp,rust,go,wasm,swift,bash)](https://skillicons.dev)<br>
-[![Tools](https://skillicons.dev/icons?i=github,git,anaconda,figma,androidstudio,cloudflare,GCP)](https://skillicons.dev)<br>
-[![High Level](https://skillicons.dev/icons?i=py,java,dart,apple)](https://skillicons.dev)<br>
-[![Web](https://skillicons.dev/icons?i=js,ts,html,css,nodejs)](https://skillicons.dev)<br>
-[![Frameworks](https://skillicons.dev/icons?i=react,next,tailwind,bootstrap,astro,fastapi,flask,deno)](https://skillicons.dev)<br>
+
+[![Low Level](https://skillicons.dev/icons?i=c,cpp,cs,rust,go,wasm,bash)](https://skillicons.dev)
+
+
+[![High Level](https://skillicons.dev/icons?i=py,java,dart,lua,apple)](https://skillicons.dev)
+
+
+[![Web](https://skillicons.dev/icons?i=js,ts,html,css,nodejs)](https://skillicons.dev)
+
+
+[![AI](https://skillicons.dev/icons?i=py,rust,go)](https://skillicons.dev)
+
+---
+
+## Frameworks / Libraries
+
+
+[![Frameworks - Web](https://skillicons.dev/icons?i=react,next,tailwind,bootstrap,astro,vue,deno,firebase)](https://skillicons.dev)
+
+
+[![Frameworks - AI](https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,fastapi,flask,sqlite)](https://skillicons.dev)
+
+
 [![App Dev](https://skillicons.dev/icons?i=flutter,swift)](https://skillicons.dev)
+
+---
+
+## Tools
+[![Tools](https://skillicons.dev/icons?i=github,git,anaconda,figma,cloudflare,gcp,neovim,vim)](https://skillicons.dev)
 
 
 ## Setup
