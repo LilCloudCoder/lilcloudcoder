@@ -15,7 +15,7 @@ const developer = {
 ## Languages
 
 
-[![Low Level](https://skillicons.dev/icons?i=c,cpp,cs,go,wasm,bash)](https://skillicons.dev)
+[![Low Level](https://skillicons.dev/icons?i=c,cpp,cs,wasm,bash)](https://skillicons.dev)
 
 
 [![High Level](https://skillicons.dev/icons?i=py,java,dart,lua,apple,solidity)](https://skillicons.dev)
@@ -24,7 +24,7 @@ const developer = {
 [![Web](https://skillicons.dev/icons?i=js,ts,html,css,nodejs)](https://skillicons.dev)
 
 
-[![AI](https://skillicons.dev/icons?i=py,rust,go)](https://skillicons.dev)
+[![AI](https://skillicons.dev/icons?i=rust,go)](https://skillicons.dev)
 
 ---
 
