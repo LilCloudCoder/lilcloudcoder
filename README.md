@@ -1,31 +1,43 @@
 # Yogya
 
-focused on building reliable systems and practical software, from low-level code to full-stack applications. Interested in how things work beneath the surface.
+```Js
+const developer = {
+  name: "Yogya",
+  age: 12,
+  location: "UP, INDIA",
+  alias: "@lilcloudcoder",
 
+  focus: ["lowlevel","fullstack","ai"],
+  inspired_by: ["Dennis Ritchie", "Linus Torvalds"]
+};
+```
 ## Stack
-- **Languages:** Python, JavaScript, TypeScript, Go, C, Rust, Solidity, Swift, Dart, HTML, CSS, ASM (basics)
-- **Frameworks & Tech:** React, Next.js, FastAPI, Flask, Flutter, React Native, WebAssembly, Bare-Metal C
 
-## Setup (whole CLI)
-- **Terminal:** Alacritty
-- **Code Editor:** NvChad with lots of tweaks
-- **Prompt:** Starship
-- **Zoxide**
+[![Low Level](https://skillicons.dev/icons?i=c,cpp,rust,go,wasm,swift,bash)](https://skillicons.dev)<br>
+[![Tools](https://skillicons.dev/icons?i=github,git,anaconda,figma,androidstudio,cloudflare,GCP)](https://skillicons.dev)<br>
+[![High Level](https://skillicons.dev/icons?i=py,java,dart,apple)](https://skillicons.dev)<br>
+[![Web](https://skillicons.dev/icons?i=js,ts,html,css,nodejs)](https://skillicons.dev)<br>
+[![Frameworks](https://skillicons.dev/icons?i=react,next,tailwind,bootstrap,astro,fastapi,flask,deno)](https://skillicons.dev)<br>
+[![App Dev](https://skillicons.dev/icons?i=flutter,swift)](https://skillicons.dev)
+
+
+## Setup
+```JS
+const setup = {
+  terminal: "Alacritty",
+  codeEditor: "NvChad with lots of tweaks",
+  prompt: "Starship",
+  tools: ["Zoxide","Starship","tmux","eza"]
+};
+```
 
 ## Client Work
-- [Sangharsh Premier League](https://sangharshpremierleague.com/)
-- [Shidh Shakti Mission](https://shidhshaktimission.org/)
-
-## Inspired by
-- Dennis Ritchie  
-- Linus Torvalds
+- [Sangharsh Premier League](https://sangharshpremierleague.com/) REACT
+- [Shidh Shakti Mission](https://shidhshaktimission.com/) NEXT
 
 ## Contact
 -  yogya.coder@gmail.com
--  Portfolio Site: https://lilcloudcoder.github.io/
+-  Portfolio Site: https://lilcloudcoder.github.io/ NEXT
 
 ---
-
 **Now follow me and _go touch some GRASS_** 
-<br/>
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnh0eTVyNWUwamd3MzljbHQzdnY2OGd4ZG5jZTV6aWhmenIyeWhqayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/EG9Zc506rqw8qiv6YK/giphy.gif" width=100> </img>
