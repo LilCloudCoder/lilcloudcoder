@@ -34,7 +34,7 @@ const developer = {
 [![Frameworks - Web](https://skillicons.dev/icons?i=react,next,tailwind,bootstrap,astro,vue,deno,firebase)](https://skillicons.dev)
 
 
-[![Frameworks - AI](https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,fastapi,flask,sqlite)](https://skillicons.dev)
+[![Frameworks - AI](https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,fastapi,flask,sqlite,mongo)](https://skillicons.dev)
 
 
 [![App Dev](https://skillicons.dev/icons?i=flutter,swift)](https://skillicons.dev)
