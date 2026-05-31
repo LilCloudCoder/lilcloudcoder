@@ -1,18 +1,18 @@
 # glitched-guy
 
-> system online // state: unstable
+> system online // state: unstable 🗿
 
 ---
 
 Yogya Srivastava, India.  
-hacker. part-time programmer.
+hacker 🗿. part-time programmer.
 
 ---
 
 break things to understand them;
 rebuild them until they run again. and say FAHH
 
-systems // tools // APIs // low-level experminets // hekcing
+systems // tools // APIs // low-level experminets // hekcing 🗿
 
 just code that runs (sometimes)
 
@@ -20,7 +20,7 @@ just code that runs (sometimes)
 
 ## stack
 
-C • Bash • Rust • Go  
+C 🗿 • Bash • Rust 🗿 • Go  
 Node.js // Python // TypeScript.
 React • Next.js • Flutter 
 basics of Ml .
@@ -47,4 +47,4 @@ mail → yogya.coder@gmail.com
 ## identity
 
 Yogya Srivastava  , 12
-// Building and hecking from India.
+// Building and hecking 🗿 from India. 🗿
