@@ -1,50 +1,32 @@
 # glitched-guy
 
-> system online // state: unstable 🗿
+> system online 🗿
+
+Yogya Srivastava, India.
+
+hacker 🗿
+part-time programmer.
+
+break things to understand them.
+rebuild them until they work again.
+
+C 🗿 • Rust 🗿 • ASM 🗿 • Go
+Bash 🗿 • Node.js • Python • TypeScript
+
+React • Next.js • Flutter
+
+backend • networking 🗿 • low-level stuff 🗿 • ML basics
 
 ---
 
-Yogya Srivastava, India.  
-hacker 🗿. part-time programmer.
+currently building random stuff.
 
 ---
 
-break things to understand them;
-rebuild them until they run again. and say FAHH
+site: https://ThatOneGlitchedGuy.github.io
 
-systems // tools // APIs // low-level experminets // hekcing 🗿
-
-just code that runs (sometimes)
+mail: [yogya.coder@gmail.com](mailto:yogya.coder@gmail.com)
 
 ---
 
-## stack
-
-C 🗿 • Bash • Rust 🗿 • Go  
-Node.js // Python // TypeScript.
-React • Next.js • Flutter 
-basics of Ml .
-Blockchain mechanism . 
-Backend Dev .
-
----
-
-## state
-
-running: yes  
-stable: no  
-intent: fahh
-
----
-
-## links
-
-site → https://ThatOneGlitchedGuy.github.io/  
-mail → yogya.coder@gmail.com  
-
----
-
-## identity
-
-Yogya Srivastava  , 12
-// Building and hecking 🗿 from India. 🗿
+12 // India 🗿 // building and hecking 🗿
