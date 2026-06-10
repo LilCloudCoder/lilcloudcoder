@@ -1,4 +1,4 @@
-### { GlitchedGuy } 
+# GlitchedGuy
 
 > system online 🗿
 
@@ -6,34 +6,42 @@ Yogya Srivastava, India.
 
 ---
 
-hacker 🗿
-<br>
+hacker.
+
 part-time programmer.
 
 break things to understand them.
-<br>
+
 rebuild them until they work again.
 
 ---
 
-C 🗿🗿 • Rust 🗿 • ASM 🗿🗿 • Go 
-<br>
+C 🗿🗿 • Rust 🗿 • ASM 🗿🗿 • Go
+
 Bash 🗿 • Node.js • Python • TypeScript
-<br>
+
 React • Next.js • Flutter
-<br>
+
 backend • networking 🗿 • low-level stuff 🗿🗿 • ML basics
 
 ---
 
 currently building random stuff.
 
----
+sometimes it works.
 
-site: https://ThatOneGlitchedGuy.github.io
-
-mail: [yogya.coder@gmail.com](mailto:yogya.coder@gmail.com)
+sometimes it becomes another project.
 
 ---
 
-12 // India 🗿 🇮🇳 🗿 // building and hecking 🗿
+site:
+ThatOneGlitchedGuy.github.io
+
+mail:
+[yogya.coder@gmail.com](mailto:yogya.coder@gmail.com)
+
+---
+
+12 • India 🇮🇳
+
+building and hecking 🗿
