@@ -1,47 +1,11 @@
-# GlitchedGuy
+## Yogya
 
-> system online 🗿
+I enjoy building things with code and learning how computers work. Most of my projects are experiments, ideas, or things I'm curious about.
 
-Yogya Srivastava, India.
+**Stack:** C, Rust, Go, Python, TypeScript, Node.js, React, Next.js, Flutter
 
----
+**Interested in:** Security Engineering | Backend Development
 
-hacker.
-
-part-time programmer.
-
-break things to understand them.
-
-rebuild them until they work again.
-
----
-
-C 🗿🗿 • Rust 🗿 • ASM 🗿🗿 • Go
-
-Bash 🗿 • Node.js • Python • TypeScript
-
-React • Next.js • Flutter
-
-backend • networking 🗿 • low-level stuff 🗿🗿 • ML basics
-
----
-
-currently building random stuff.
-
-sometimes it works.
-
-sometimes it becomes another project.
-
----
-
-site:
-ThatOneGlitchedGuy.github.io
-
-mail:
-[yogya.coder@gmail.com](mailto:yogya.coder@gmail.com)
-
----
-
-12 • India 🇮🇳
-
-building and hecking 🗿
+**Contact:**
+Website: ThatOneGlitchedGuy.github.io
+Email: [yogya.coder@gmail.com](mailto:yogya.coder@gmail.com)
